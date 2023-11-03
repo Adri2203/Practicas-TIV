@@ -1,7 +1,7 @@
-# Practicas-TyV
+# Practicas-TIV
 
-## Practica-TyV 1
+## Practica-TIV 1
 
-## Practica-TyV 2
+## Practica-TIV 2
 
-## Practica-TyV 3
+## Practica-TIV 3
